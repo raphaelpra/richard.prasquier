@@ -9,6 +9,8 @@ description: |-
 
   Antisionisme. Les ambiguïtés d’un terme
 category: Antisémitisme
+tags:
+  - Tribute Actu J
 ---
 L’antisionisme?  Je n’aime pas la chose, et je me méfie du mot. J’ai essayé sans succès de promouvoir le terme d’Israélophobie. P.A.Taguieff n’avait pas réussi à faire valoir  « judéophobie » à la place du mot « antisémitisme » qui permettait aux amis des islamistes d’esquiver la critique par un grossier tour de passe passe sur les sémites. L’usage limité aux Juifs du terme « antisémitisme » a acquis ses lettres de noblesse ou plutôt de honte.Les prétextes n’y ont jamais manqué bien avant que ce mot n’apparût (1879). 
 
