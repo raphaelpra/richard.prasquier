@@ -28,11 +28,7 @@ module.exports = {
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: 'richard@prasquier.com',
-      telegram: '',
-      twitter: 'RPrasquier',
-      github: '',
-      rss: '#',
-      vkontakte: ''
+      twitter: 'RPrasquier'
     }
   }
 };
