@@ -15,11 +15,11 @@ module.exports = {
     },
     {
       label: 'Qui suis-je',
-      path: '/pages/a-propos'
+      path: '/a-propos'
     },
     {
       label: 'Travail de mémoire',
-      path: '/pages/memoire'
+      path: '/memoire'
     }
   ],
   author: {
