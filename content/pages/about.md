@@ -1,7 +1,7 @@
 ---
 template: page
 title: A propos de Richard Prasquier
-slug: pages/a-propos
+slug: a-propos
 draft: false
 ---
 Richard Prasquier ... .
