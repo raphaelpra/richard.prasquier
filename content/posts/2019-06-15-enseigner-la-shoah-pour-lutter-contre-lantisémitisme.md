@@ -3,7 +3,7 @@ template: post
 title: Enseigner la shoah pour lutter contre l'antisémitisme.
 slug: /posts/enseigner-la-shoah
 draft: false
-date: 2019-06-15T12:50:38.031Z
+date: 2019-01-24T13:50:38.031Z
 description: DESCRIPTION A DEFINIR
 category: Mémoire
 tags:
