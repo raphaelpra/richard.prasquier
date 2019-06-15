@@ -269,7 +269,7 @@ exports[`TagTemplate renders correctly 1`] = `
               className="feed__item-readmore"
               href="/test_0"
             >
-              Read
+              Lire
             </a>
           </div>
           <div
@@ -317,7 +317,7 @@ exports[`TagTemplate renders correctly 1`] = `
               className="feed__item-readmore"
               href="/test_1"
             >
-              Read
+              Lire
             </a>
           </div>
         </div>
@@ -332,7 +332,7 @@ exports[`TagTemplate renders correctly 1`] = `
               href="/page/1"
               rel="prev"
             >
-              ← PREV
+              ← PRECEDENT
             </a>
           </div>
           <div
@@ -343,7 +343,7 @@ exports[`TagTemplate renders correctly 1`] = `
               href="/page/3"
               rel="next"
             >
-              → NEXT
+              → SUIVANT
             </a>
           </div>
         </div>
