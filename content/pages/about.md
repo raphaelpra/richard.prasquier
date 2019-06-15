@@ -2,7 +2,7 @@
 template: page
 title: A propos de Richard Prasquier
 slug: a-propos
-draft: true
+draft: false
 ---
 Richard Prasquier ... .
 
