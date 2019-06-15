@@ -1,38 +1,38 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  url: 'https://richard.prasquier.com',
+  title: 'Blog de Richard Prasquier',
+  subtitle: 'FIXME Richard Prasquier',
+  copyright: '© Tous droits réservés.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Mes articles',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Qui suis-je',
+      path: '/pages/a-propos'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Travail de mémoire',
+      path: '/pages/memoire'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Richard Prasquier',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'richard@prasquier.com',
+      telegram: '',
+      twitter: 'RPrasquier',
+      github: '',
       rss: '#',
-      vkontakte: '#'
+      vkontakte: ''
     }
   }
 };
