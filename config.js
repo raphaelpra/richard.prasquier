@@ -28,7 +28,8 @@ module.exports = {
     bio: 'Cardiologue - Président de Yad Vashem - Ancien Président du CRIF',
     contacts: {
       email: 'richard@prasquier.com',
-      twitter: 'RPrasquier'
+      twitter: 'RPrasquier',
+      rss: './rss.xml'
     }
   }
 };
