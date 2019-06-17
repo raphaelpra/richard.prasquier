@@ -13,7 +13,7 @@ type Props = {
 const Layout = ({ children, title, description }: Props) => (
   <div className={styles.layout}>
     <Helmet>
-      <html lang="en" />
+      <html lang="fr" />
       <title>{title}</title>
       <meta name="description" content={description} />
       <meta property="og:site_name" content={title} />
