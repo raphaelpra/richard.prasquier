@@ -27,7 +27,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Cardiologue - Président de Yad Vashem - Ancien Président du CRIF',
     contacts: {
-      email: 'richard@prasquier.com',
+      email: 'blog@prasquier.com',
       twitter: 'RPrasquier',
       rss: './rss.xml'
     }
