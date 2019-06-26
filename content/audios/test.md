@@ -1,7 +1,7 @@
 ---
 template: page
 title: Test
-draft: true
+draft: false
 description: Test
 ---
 
