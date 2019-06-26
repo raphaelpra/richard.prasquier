@@ -1,10 +1,9 @@
 ---
 template: post
 title: Enseigner la shoah pour lutter contre l'antisémitisme.
-slug: /posts/enseigner-la-shoah
 draft: false
 date: 2019-01-24T13:50:38.031Z
-description: DESCRIPTION A DEFINIR
+description: Tribute Actu J du 24 janvier 2019
 category: Mémoire
 tags:
   - Tribute Actu J
