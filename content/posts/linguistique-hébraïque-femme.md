@@ -3,7 +3,7 @@ template: post
 title: Linguistique hébraïque. Femme
 draft: false
 date: 2018-10-27T15:23:55.320Z
-description: Tribute pour le Keren Hayessod
+description: Tribune pour le Keren Hayessod
 category: Divers
 tags:
   - Keren Hayessod
