@@ -10,7 +10,7 @@ collections:
     label: "Posts"
     folder: "content/posts"
     create: true
-    slug: "{{date}}-{{title}}"
+    slug: "{{title}}"
     fields:
       - {label: "Template", name: "template", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
