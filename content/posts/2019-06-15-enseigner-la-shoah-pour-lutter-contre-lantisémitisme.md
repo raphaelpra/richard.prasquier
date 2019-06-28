@@ -3,7 +3,7 @@ template: post
 title: Enseigner la shoah pour lutter contre l'antisémitisme.
 draft: false
 date: 2019-01-24T13:50:38.031Z
-description: Tribune Actu J du 24 janvier 2019
+description: 'Nécessités et limites de l''enseignement de la Shoah '
 category: Mémoire
 tags:
   - Actu J
