@@ -1,7 +1,7 @@
 ---
 template: page
 title: Memoire
-slug: /memoire
+slug: memoire
 draft: true
 ---
 A venir
