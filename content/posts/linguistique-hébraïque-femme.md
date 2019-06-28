@@ -3,7 +3,11 @@ template: post
 title: 'Un peu de linguistique hébraïque : Femme'
 draft: false
 date: 2018-10-27T15:23:55.320Z
-description: Tribune pour le Keren Hayessod
+description: >-
+  Journal Yessod
+
+  En hébreu, femme se dit "icha". Où on voit que le lien avec "ich" (homme),
+  n'est pas si évident que l'on pourrait le penser.
 category: Divers
 tags:
   - Keren Hayessod
