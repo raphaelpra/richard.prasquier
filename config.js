@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://richard.prasquier.com',
   title: 'Blog de Richard Prasquier',
-  subtitle: 'FIXME Richard Prasquier',
+  subtitle: 'Richard Prasquier',
   copyright: '© Tous droits réservés.',
   disqusShortname: '',
   postsPerPage: 5,
@@ -14,8 +14,16 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'Qui suis-je',
+      label: 'Qui suis-je ?',
       path: '/a-propos'
+    },
+    {
+      label: 'Le Keren Hayessod',
+      path: '/keren-hayessod'
+    },
+    {
+      label: 'Le CRIF',
+      path: '/crif'
     },
     {
       label: 'Travail de mémoire',
@@ -25,7 +33,7 @@ module.exports = {
   author: {
     name: 'Richard Prasquier',
     photo: '/photo.jpg',
-    bio: 'Cardiologue - Président de Yad Vashem - Ancien Président du CRIF',
+    bio: "Cardiologue - Président d'Honneur du CRIF - Président du Keren Hayessod France",
     contacts: {
       email: 'blog@prasquier.com',
       twitter: 'RPrasquier',
