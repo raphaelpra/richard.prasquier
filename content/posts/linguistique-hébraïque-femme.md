@@ -4,13 +4,12 @@ title: 'Un peu de linguistique hébraïque : Femme'
 draft: false
 date: 2018-10-27T15:23:55.320Z
 description: >-
-  Journal Yessod
-
   En hébreu, femme se dit "icha". Où on voit que le lien avec "ich" (homme),
   n'est pas si évident que l'on pourrait le penser.
 category: Divers
 tags:
   - Hébreu
+  - Journal Yessod
 ---
 Dans ce numéro de Yesod largement consacré aux femmes, il est logique de consacrer une réflexion au mot אִשָּׁה (icha). C’est l’un des mots les plus courants de l’hébreu d’aujourd’hui, inchangé dans son usage depuis les temps les plus reculés. 
 
