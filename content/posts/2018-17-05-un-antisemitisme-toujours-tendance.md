@@ -4,7 +4,7 @@ title: Un Antisemitisme toujours tendance
 draft: false
 date: 2018-11-15T16:05:58.879Z
 description: Actualité Juive 15 novembre 2018
-category: Antisemitisme
+category: Antisémitisme
 ---
 La commémoration du centenaire de la fin de la Première Guerre Mondiale a rejeté dans l’ombre le 80e anniversaire de  la « nuit de Cristal », appellation absurdement poétique du drame qui vit la disparition de fait du judaisme allemand organisé: 250 morts, plus de 1000 synagogues détruites, 30 000 Juifs envoyés dans les camps de concentration. Une opération exécutée avec toute la rigueur technique dont la SS était capable, rien à voir avec les débordements populaires des pogroms à l’ancienne. On brûlait les synagogues, mais les pompiers veillaient à ce que le feu ne se propage pas aux immeubles voisins. Pour les Juifs du Reich, nulle part où aller, les protestations officielles, américaines notamment, furent de pure forme. Seule l’Angleterre, honneur à elle, accepta d’ouvrir ses portes aux 10000 enfants des KIndertransporten. 
 
