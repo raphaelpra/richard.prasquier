@@ -9,11 +9,9 @@ description: |-
   Antisionisme. Les ambiguïtés d’un terme
 category: Antisémitisme
 tags:
-  - Tribute Actu J
+  - Tribune Actu J
 ---
-L’antisionisme?  Je n’aime pas la chose, et je me méfie du mot. J’ai essayé sans succès de promouvoir le terme d’Israélophobie. P.A.Taguieff n’avait pas réussi à faire valoir  « judéophobie » à la place du mot « antisémitisme » qui permettait aux amis des islamistes d’esquiver la critique par un grossier tour de passe passe sur les sémites. L’usage limité aux Juifs du terme « antisémitisme » a acquis ses lettres de noblesse ou plutôt de honte.Les prétextes n’y ont jamais manqué bien avant que ce mot n’apparût (1879 42). 
-
-
+L’antisionisme?  Je n’aime pas la chose, et je me méfie du mot. J’ai essayé sans succès de promouvoir le terme d’Israélophobie. P.A.Taguieff n’avait pas réussi à faire valoir  « judéophobie » à la place du mot « antisémitisme » qui permettait aux amis des islamistes d’esquiver la critique par un grossier tour de passe passe sur les sémites. L’usage limité aux Juifs du terme « antisémitisme » a acquis ses lettres de noblesse ou plutôt de honte.Les prétextes n’y ont jamais manqué bien avant que ce mot n’apparût (1879). 
 
 Le Président Macron a souligné que l’antisionisme est une manière codée d’exprimer l’antisémitisme.Dans le passé bien des Juifs ont été antisionistes, assimilationnistes, bundistes ou marxistes, ou bien attendant que le Messie les conduise à la Terre Promise. Ils sont devenus moins nombreux depuis que le XXe siècle a montré jusqu’où pouvait aller la haine contre les Juifs et la faiblesse des réactions des nations contre cette haine. Les Juifs antisionistes d’aujourd’hui, exhibés comme des trophées, sont les idiots utiles d’une idéologie dont les conséquences ne sont plus celles d’avant 1948. L’antisionisme est criminel car il ne vise plus à la disparition d’une idée, mais à la destruction d’un Etat, avec des conséquences humaines épouvantables. Quant à l’antisionisme « peace and love» qui suggère qu’un état binational de tous les citoyens serait possible dans la sérénité de tous, le simple examen de ce qui est et non de ce qu’on voudrait qu’il soit, prouve sa dangereuse inanité. Mais criminaliser cet antisionisme-là serait s’exposer à des contentieux sur la liberté d’expression aux effets très contre-productifs.
 
