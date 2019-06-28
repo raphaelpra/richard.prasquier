@@ -1,6 +1,6 @@
 ---
 template: post
-title: Linguistique hébraïque. Femme
+title: 'Un peu de linguistique hébraïque : Femme'
 draft: false
 date: 2018-10-27T15:23:55.320Z
 description: Tribune pour le Keren Hayessod
