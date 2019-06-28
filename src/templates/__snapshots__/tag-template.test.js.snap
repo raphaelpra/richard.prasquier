@@ -232,9 +232,9 @@ exports[`TagTemplate renders correctly 1`] = `
             >
               <time
                 className="feed__item-meta-time"
-                dateTime="September 1, 2016"
+                dateTime="septembre 1, 2016"
               >
-                September 2016
+                septembre 2016
               </time>
               <span
                 className="feed__item-meta-divider"
@@ -280,9 +280,9 @@ exports[`TagTemplate renders correctly 1`] = `
             >
               <time
                 className="feed__item-meta-time"
-                dateTime="September 1, 2016"
+                dateTime="septembre 1, 2016"
               >
-                September 2016
+                septembre 2016
               </time>
               <span
                 className="feed__item-meta-divider"
@@ -332,7 +332,7 @@ exports[`TagTemplate renders correctly 1`] = `
               href="/page/1"
               rel="prev"
             >
-              ← PRECEDENT
+              ← précédent
             </a>
           </div>
           <div
@@ -343,7 +343,7 @@ exports[`TagTemplate renders correctly 1`] = `
               href="/page/3"
               rel="next"
             >
-              → SUIVANT
+              suivant →
             </a>
           </div>
         </div>
