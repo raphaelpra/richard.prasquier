@@ -2,6 +2,6 @@
 template: page
 title: Memoire
 slug: memoire
-draft: true
+draft: false
 ---
 A venir
