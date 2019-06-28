@@ -1,6 +1,7 @@
 ---
 template: page
 title: A propos de Richard Prasquier
+slug: a-propos
 draft: false
 ---
 Je suis né en Pologne en 1945 de parents qui s'y sont cachés pendant la guerre. Nous avons quitté la Pologne en 1946, j'ai fait mes études de médecine à Paris, suivies de l'Internat des Hôpitaux, puis du clinicat et d'une installation en ville après de nombreuses années de pratique hospitalière intense.
