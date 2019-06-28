@@ -10,7 +10,7 @@ description: >-
   n'est pas si évident que l'on pourrait le penser.
 category: Divers
 tags:
-  - Keren Hayessod
+  - Hébreu
 ---
 Dans ce numéro de Yesod largement consacré aux femmes, il est logique de consacrer une réflexion au mot אִשָּׁה (icha). C’est l’un des mots les plus courants de l’hébreu d’aujourd’hui, inchangé dans son usage depuis les temps les plus reculés. 
 
