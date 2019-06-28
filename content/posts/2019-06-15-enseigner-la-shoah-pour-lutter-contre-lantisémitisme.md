@@ -6,7 +6,7 @@ date: 2019-01-24T13:50:38.031Z
 description: Tribune Actu J du 24 janvier 2019
 category: Mémoire
 tags:
-  - Tribute Actu J
+  - Actu J
 ---
 Les démons  antisémites sont sortis de leurs placards naphtalinés et ont instillé leur moisi dans certains gilets jaunes: ils disent la clé des difficultés du quotidien et canalisent le ressentiment vers les responsables de l’exploitation, ces maitres cachés du monde auxquels nos dirigeants sont asservis. Les Juifs, bien sûr: le produit est en magasin, a prouvé sa résilience au cours d’une longue histoire: autant s’en resservir. Et « pute à Juifs » est apparu dans le florilège de l’insulte. 
 
