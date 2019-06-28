@@ -3,7 +3,7 @@ template: post
 title: Enseigner la shoah pour lutter contre l'antisémitisme.
 draft: false
 date: 2019-01-24T13:50:38.031Z
-description: Tribute Actu J du 24 janvier 2019
+description: Tribune Actu J du 24 janvier 2019
 category: Mémoire
 tags:
   - Tribute Actu J
