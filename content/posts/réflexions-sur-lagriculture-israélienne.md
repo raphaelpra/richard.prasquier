@@ -2,7 +2,7 @@
 template: post
 title: "Réflexions sur l'agriculture israélienne\_"
 draft: false
-date: 2019-06-29T08:23:22.977Z
+date: 2018-06-15T08:23:22.977Z
 description: >-
   Judaisme et l'agriculture: les vieux clichés antisémites et les réalistaions
   israéliennes
