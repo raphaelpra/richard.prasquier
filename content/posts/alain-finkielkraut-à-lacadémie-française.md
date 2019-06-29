@@ -2,7 +2,7 @@
 template: post
 title: Alain Finkielkraut à l'Académie française
 draft: false
-date: 2019-06-29T18:38:58.991Z
+date: 2016-02-15T19:38:00.000Z
 description: >-
   L'entrée de Alain Finkielkraut à l'Académie française, que ses ennemis
   quaifient de réactionnaire,  est concomitante avec la venue à Paris du
