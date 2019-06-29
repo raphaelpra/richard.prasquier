@@ -3,8 +3,12 @@ template: post
 title: Gaza ou l'autoroute à Fake News
 draft: false
 date: 2018-05-18T08:29:30.870Z
-description: Israël
+description: >-
+  Gaza est aussi un laboratoire où se concotent des Fake News qui trouvent
+  oreilles et yeux complaisants
 category: Actu J
+tags:
+  - Israël
 ---
 « A Gaza, si le Meretz avait été au pouvoir, la réaction du gouvernement aurait été identique, c’est un consensus en Israël. Personne ne laissera des militants du Hamas forcer la barrière et commettre des attentats dans les kibboutz frontaliers». L’homme qui me fait cette déclaration sait de quoi il parle, il a été général et vice-ministre de la Défense. Dans un gouvernement travailliste.....
 
