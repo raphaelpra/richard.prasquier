@@ -3,7 +3,10 @@ template: post
 title: Un Antisémitisme toujours tendance
 draft: false
 date: 2018-11-15T16:05:58.879Z
-description: Actualité Juive 15 novembre 2018
+description: >-
+  En ce 80e anniversaire du pogrom de la Nuit de Cristal, les digues contenant
+  l'expression de la parole antisémite se fissurent: celle-ci devient "tendance"
+  dans une société confortablement transgressive 
 category: Antisémitisme
 tags:
   - Actu J
