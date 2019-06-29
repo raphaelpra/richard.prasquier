@@ -9,6 +9,7 @@ description: >-
   Président Iranien, que les mêmes qualifient de  modéré
 category: Divers
 tags:
+  - Actu J
   - Iran
   - Négationnisme
   - Immigration
