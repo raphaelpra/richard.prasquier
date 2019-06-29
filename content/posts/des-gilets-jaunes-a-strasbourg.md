@@ -1,6 +1,6 @@
 ---
 template: post
-title: ' DES GILETS JAUNES A STRASBOURG: '
+title: 'Gilets Jaunes et attentats de Strasbourg '
 draft: false
 date: 2018-12-17T09:03:36.176Z
 description: >-
