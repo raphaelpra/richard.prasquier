@@ -4,7 +4,12 @@ title: Du jour du souvenir au jour de l’indépendance
 draft: false
 date: 2019-06-29T07:54:31.410Z
 description: Yom Hazikaron et Yom Haatzmaout en Israël
-category: Israël; mémoire
+category: Israël
+tags:
+  - Actu J
+  - Keren Hayessod
+  - Survivants de la Shoah
+  - Hamas
 ---
 Visite dans la Maison du Palmach à Ramat Aviv, le jour de Yom Hazikaron. Un poème de Natan Alterman consacré à l’Alya Beth, l’immigration illégale. A côté, filmé de trois quarts, un combattant guette, fusil à la main, visage fermé, yeux cachés dans l’ombre du chapeau, extraordinaire détermination dans les pommettes et la mâchoire. Sur son avant bras des chiffres sont tatoués: l’homme a été à Auschwitz. On avait voulu le réduire à un numéro et la photo crie la revanche silencieuse de celui qui peut désormais agir sur son destin. Et pourtant, l’homme n’a toujours pas de nom. Les survivants de la Shoah n’étaient pas considérés avec beaucoup de respect par les Palmakhniks imbus de l’idée de la gevoura sioniste, ce qui explique peut-être cet anonymat: peut-être d’ailleurs, venait-il d’arriver et savait-il à peine manier l’arme qu’il déploie avant tant d’énergie sur la photo. Il a probablement été tué dans cette guerre. En tout cas, son visage me marquera à jamais.
 
