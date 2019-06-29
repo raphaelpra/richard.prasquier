@@ -4,7 +4,12 @@ title: Le Cardinal Lustiger. Réflexions sur les convertis
 draft: false
 date: 2017-09-19T08:50:00.000Z
 description: Le  Cardinal Lustiger et le changement de regard envers les convertis
-category: Antisémitisme
+category: Relations judéo-chrétiennes
+tags:
+  - Lustiger
+  - Conversion
+  - Moyen Age
+  - Droit au retour
 ---
 Il y a dix ans disparaissait le cardinal Lustiger. Plusieurs colloques préciseront cet automne sa place dans le monde catholique et dans le dialogue judéo-chrétien, Je n’envisageais pas d’écrire sur  cet anniversaire, mais une réflexion de lecteur publiée  dans ce journal a blessé des membres de l’Amitié judéo-chrétienne et montre que les mémoires ne sont pas encore apaisées 
 
