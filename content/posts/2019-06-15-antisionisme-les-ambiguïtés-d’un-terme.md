@@ -3,10 +3,12 @@ template: post
 title: Antisionisme. Les ambiguïtés d’un terme
 draft: false
 date: 2019-03-02T13:44:31.508Z
-description: |-
-  Article publié initialement comme Tribune d'Actu J.
-
-  Antisionisme. Les ambiguïtés d’un terme
+description: >-
+  L'antisionisme d'aujourd'hui n'est pas l'antisionisme d'hier. La diabolisation
+  de l'Etat d'Israël (israélophobie) en est l'ingrédient essentiel: c'est une
+  forme d'antisémitisme qu'il importe de reconnaitre comme telle, contre
+  laquelle il est difficile, mais capital, de lutter: il s'agit entre autres de
+  l'avenir des Juifs de France....
 category: Antisémitisme
 tags:
   - Actu J
