@@ -1,0 +1,25 @@
+---
+template: post
+title: 'La solidarité, une valeur ambiguë'
+draft: false
+date: 2019-06-29T19:02:58.025Z
+description: >-
+  Les djihadistes ne manquent pas de valeurs: la sincérité et la solidarité
+  peuvent couvrir des abominations....
+category: International
+---
+
+
+« Ce qui me frappe, c’est la profonde sincérité de leur engagement religieux », déclarait récemment un avocat pénaliste à propos de ses clients djihadistes. Le commentaire valait, semble-t-il, circonstance atténuante.Vraiment? Si la liberté et l’égalité sont emblématiques de notre triptyque national, la sincérité et la solidarité sont deux passions en hausse dans notre imaginaire: elles ont servi dans cet été 2015 pour de grands et petits événements
+
+
+
+Etait-elle sincère, Madame Ieng Thirit, décédée cette semaine, qui à son procès pour crimes contre l’humanité, prétendait n’avoir jamais fait que le bien? Belle-soeur de Pol Pot et ministre majeur de son gouvernement ( 1700 000 morts, le tiers de la population cambodgienne), l’idée d’une quelconque responsabilité lui était aussi saugrenue qu’elle l’avait été pour la quasi-totalité des nazis après la guerre. Les tueurs au nom d’une idée sont en général des individus sincères. Depuis les inquisiteurs aux gardes rouges, depuis les oustachis aux militants de Al Qaida, depuis les Einsatzgruppen aux responsables de la monstrueuse famine organisée organisée par Staline en Ukraine, interminable est la liste des crimes de masse dont les auteurs se prévalaient sincèrement de la haute moralité de leurs actes. La religion, lorsque elle nomme l’ennemi à détruire, est, dans un monde où les utopies politiques ne font plus rêver, le repositoire majeur de ces sincérités meurtrières qui ne se limitent pas au cancer islamiste djihadiste dont lsis est le sinistre modèle, parfaitement sincère, qui annonce sans fard ce qu’il cherche à faire: nous tuer tous, juifs, chrétiens, chiites et sunnites «apostats ». Il semble que ce message ait été entendu. Pour l’instant….car il est d’autres messages de mort, tout aussi sincères, qu’on se refuse à entendre: celui de la charte du Hamas, celui de Khamenei et de ses chefs militaires, «prêts à détruire dans l’heure Israël dès que le guide le demandera ». Les chiites iraniens du velayat al faqih de l’imam Khomeini, comme les Frères Musulmans sunnites, si proches d’eux à tant d’égards, suivent la taiqiah, le mensonge contre les ennemis de la foi. Simple changement de focale. Du banal point de vue des faits, les Iraniens ont menti depuis des années sur leur développement nucléaire, et ils continueront de mentir: de leur point de vue,ils sont parfaitement sincères puisqu’ils suivent des injonctions d’un ordre supérieur. A leurs diplomates d’organiser l’emballage, avec la maestria tragique que l’on vient de voir. Valeur essentielle des relations humaines, la sincérité ne doit pas être nimbée de fascination respectueuse sous prétexte qu’un engagement fort est rare dans notre monde occidental déconstruit. 
+
+Autre pilier de la vie sociale, la solidarité est moins admirable quand ses objurgations morales cachent des politiques partisanes ou des soutiens corporatistes: la protestation contre la journée de Tel Aviv à Paris Plage traduisait moins la solidarité avec les Palestiniens qu’un réflexe pavlovien antiisraélien, celui du chien qui salive à un stimulus conditionné et ne réagit à rien d'autre. Quant aux exploits récents du BDS, seuls de grands naïfs croient qu’il s’agit de solidarité, alors que, son concepteur M.Barghouti l’a «sincèrement» confirmé, c’est une machine de guerre contre Israël.
+
+Enfin, le récent départ de Charles Enderlin fait réfléchir à la solidarité dont il a bénéficié. Il l’a sollicitée sans relâche de la part de ses confrères qui la lui ont accordée en taisant souvent leurs réserves. Il a su les mobiliser en sa faveur  en détournant l‘objet unique du débat, le reportage Al Dura et ses invraisemblances avérées, au profit d’une problématique différente, les attaques dont il aurait été la cible. La technique est classique: discréditer l’adversaire pour ne pas avoir à parler du fond. J’en sais quelque chose. Cette technique fut efficace; je ne suis pas sûr qu’elle continuera de l’être, mais le mal est fait sur l’image d’Israël. 
+
+
+
+ Le difficile diptyque  de la liberté et de l’égalité se prévaut du liant indéfinissable de la fraternité. Le diptyque sincérité/solidarité est un passeport vers l’arbitraire, s’il ne repose pas  sur une hygiène de la vérité. Dût-elle heurter nos engagements subjectifs,religieux ou politiques, il s’agit là de la vérité banale et complexe, laïque et si possible scientifique, qui ne connait ni Gott mit uns, ni la pensée Mao, ni leurs avatars d’aujourd’hui. Les Juifs/Israël qui sont de nouveau visés par les dérives idéologiques ou religieuses doivent eux aussi veiller à n’avoir aucune complaisance solidaire envers les manifestations de haine, même quand ces dernières font argument d’impératifs bibliques. Car la force de leur héritage est son universalité.
