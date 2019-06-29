@@ -3,7 +3,10 @@ template: post
 title: Enseigner la shoah pour lutter contre l'antisémitisme.
 draft: false
 date: 2019-01-24T13:50:38.031Z
-description: 'Nécessités et limites de l''enseignement de la Shoah '
+description: >-
+  On a cru que l'enseignement de la Shoah mettrait à l'abri de l'antisémitisme.
+  Il est indispensable, mais il faut lucidement en reonnaitre les difficultés,
+  les limites et les paradoxes
 category: Mémoire
 tags:
   - Actu J
