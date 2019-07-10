@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'Richard Prasquier',
   copyright: '© Tous droits réservés.',
   disqusShortname: '',
-  postsPerPage: 5,
+  postsPerPage: 25,
   googleAnalyticsId: 'UA-59360692-2',
   menu: [
     {
