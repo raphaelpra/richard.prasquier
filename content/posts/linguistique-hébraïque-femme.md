@@ -1,6 +1,6 @@
 ---
 template: post
-title: 'Un peu de linguistique hébraïque : Femme'
+title: 'Digressions linguistiques hébraïques : Femme'
 draft: false
 date: 2018-10-27T15:23:55.320Z
 description: >-
