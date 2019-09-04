@@ -7,11 +7,16 @@ module.exports = {
   copyright: '© Tous droits réservés.',
   disqusShortname: '',
   postsPerPage: 25,
+  audiosPerPage: 25,
   googleAnalyticsId: 'UA-59360692-2',
   menu: [
     {
       label: 'Mes articles',
       path: '/'
+    },
+    {
+      label: 'Mes émissions',
+      path: '/audios'
     },
     {
       label: 'Qui suis-je ?',

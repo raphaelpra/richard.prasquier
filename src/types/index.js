@@ -27,6 +27,7 @@ export type Node = {
     date: string,
     description?: string,
     category?: string,
+    audioUrl?: string,
     tags?: string[],
     title: string,
   },
