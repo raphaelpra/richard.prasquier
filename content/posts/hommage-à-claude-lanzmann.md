@@ -3,10 +3,10 @@ template: post
 title: Hommage à Claude Lanzmann
 draft: false
 date: 2019-06-29T07:58:12.191Z
-description: >-
-  Hommage à Claude Lanzmann, prononcé le jour de son enterrement et publié dans
-  Actu J
+description: 'Hommage à Claude Lanzmann, prononcé le jour de son enterrement'
 category: Mémoire
+tags:
+  - Actu J
 ---
 « Nous, les survivants, ne sommes pas les vrais témoins. C'est là une notion qui dérange, dont je n’ai pris conscience que récemment. Grâce à  l'habileté ou la chance, nous n’avons pas touché le fond. Ceux qui l'ont fait, qui ont vu la Gorgone, ne sont pas revenus pour raconter, mais ce sont eux, les engloutis, qui sont les témoins intégraux. Ils sont la règle, nous l'exception ».
 
