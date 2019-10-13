@@ -10,7 +10,7 @@ Mes activités à l'intérieur des institutions françaises liées au monde juif
 
 Après  la Première guerre du Golfe en 1991, j'ai assumé  la Présidence des Bonds d'Israël en France, puis pendant près de 10 ans celle du Comité français pour Yad Vashem. J'ai été élu Président du Crif en 2007, puis réélu de 2010. Années d'intense activité, de rencontres multiples et de réflexions sur le monde tel qu'il est. 
 
-Peu de temps après mon deuxième mandat au Crif, je suis devenu Président du Keren Hayessod France.
+Peu de temps après avoir fini mon deuxième mandat au Crif, je suis devenu Président du Keren Hayessod France.
 
 J'ai par ailleurs exercé les fonctions de vice-président de la Fondation de la Mémoire de la Shoah, de membre du Conseil International d'Auschwitz et de vice-président de Yahad in Unum, dont mon très proche ami, le Père Patrick Desbois est la personnalité emblématique.  J'ai reçu le Prix de l'Amitié judéo-chrétienne de France en 2015 et le Prix Yakir du Keren Hayesod mondial en 2019.\
 Dans ces diverses activités, j'ai été confronté à l'antisémitisme sous ses formes actuelles et ses formes historiques, à son déni, à la détestation et à l'admiration d'Israël, à la poussée islamiste qui ne se limite pas aux horreurs terroristes, aux combats pour la Mémoire, aux complexités des relations judéo-polonaises, à la transformation des relations judéo-chrétiennes, aux difficultés des communautés juives dans le monde et aux dangers qui les menacent, à la problématique de l'Alyah et, bien entendu, à toute la variété de la vie juive en France et de ses institutions. Les plus inquiétants de ces éléments, qui paraissent aujourd'hui d'une attristante banalité, étaient en germe depuis longtemps dans notre société et largement laissés sous le tapis.
