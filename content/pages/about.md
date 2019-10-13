@@ -17,8 +17,10 @@ Dans mes diverses activités, j'ai été confronté à l'antisémitisme sous ses
 
 Je suis, et c'est  ma fierté et ma chance, l'époux de Anna Prasquier, née Eichenwald, d'origine polonaise comme moi, mais avec une jeunesse brésilienne. L'histoire extraordinaire de sa famille pendant la guerre a fait l'objet d'un livre qui a eu beaucoup de succès aux Etats Unis ("We are the lucky ones"; en français "Sur les ailes de la Chance") et dont l'auteur est sa petite cousine Georgia Hunter. 
 
-Nous sommes les parents de cinq enfants, Alain, Jacqueline (Shelley), Patrick, Béatrice et Raphaël  et les heureux grands-parents de 16 petits enfants (en date de 2019), dont huit habitent aujourd'hui en Israël. 
+Nous sommes les parents de cinq enfants, Alain, Jacqueline (Shelley), Patrick, Béatrice et Raphaël (à qui revient la conception de ce blog) et les heureux grands-parents de 16 petits enfants (en date de 2019), dont huit habitent aujourd'hui en Israël. 
 
-Je publie mensuellement une Tribune  à [Actualité Juive](/tag/actu-j), quelques articles de [digressions linguistiques hébraïque](/tag/hebreu/)s dans le journal Yessod, et j'ai récemment commencé des entretiens hebdomadaires à Radio J (l'invité de Richard Prasquier) le mardi à 7h 40.
+Je publie une Tribune mensuelle à [Actualité Juive](/tag/actu-j) et quelques articles de [digressions linguistiques hébraïque](/tag/hebreu/)s dans le journal Yessod. Une partie des  nombreux textes que j'ai écrits dans mes fonctions passées sera transférée dans ce blog.
+
+J'ai récemment commencé des entretiens hebdomadaires à Radio J (l'invité de Richard Prasquier) le mardi à 7h 40.
 
 Enfin, j'aime l'histoire, les sciences, la peinture, les langues, le piano et le tennis....entre autres choses....
