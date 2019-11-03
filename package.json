@@ -40,7 +40,7 @@
     "disqus"
   ],
   "dependencies": {
-    "bluebird": "^3.5.5",
+    "bluebird": "^3.7.1",
     "classnames": "^2.2.6",
     "codecov": "^3.5.0",
     "gatsby": "^2.17.7",
@@ -76,10 +76,10 @@
     "node-sass": "^4.12.0",
     "normalize-scss": "^7.0.1",
     "prismjs": "^1.16.0",
-    "react": "^16.8.6",
+    "react": "^16.11.0",
     "react-audio-player": "^0.11.1",
     "react-disqus-comments": "^1.4.0",
-    "react-dom": "^16.8.6",
+    "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
@@ -111,7 +111,7 @@
     "jest-cli": "24.8.0",
     "lost": "8.3.1",
     "postcss-pxtorem": "4.0.1",
-    "react-test-renderer": "16.8.6",
+    "react-test-renderer": "16.11.0",
     "rimraf": "2.6.3",
     "standard-version": "6.0.1",
     "stylelint": "10.1.0",
