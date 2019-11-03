@@ -5,7 +5,7 @@ import Author from './Author';
 import Comments from './Comments';
 import Content from './Content';
 import Meta from './Meta';
-import Tags from './Tags';
+import Tags from './../Post/Tags';
 import styles from './Audio.module.scss';
 import type { Node } from '../../types';
 
