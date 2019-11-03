@@ -14,10 +14,10 @@ module.exports = {
       label: 'Mes articles',
       path: '/'
     },
-    {
-      label: 'Mes émissions',
-      path: '/audios'
-    },
+    // {
+    //   label: 'Mes émissions',
+    //   path: '/audios'
+    // },
     {
       label: 'Qui suis-je ?',
       path: '/a-propos'
