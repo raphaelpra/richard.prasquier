@@ -269,7 +269,7 @@ exports[`CategoryTemplate renders correctly 1`] = `
               className="feed__item-readmore"
               href="/test_0"
             >
-              Lire
+              Détails
             </a>
           </div>
           <div
@@ -317,7 +317,7 @@ exports[`CategoryTemplate renders correctly 1`] = `
               className="feed__item-readmore"
               href="/test_1"
             >
-              Lire
+              Détails
             </a>
           </div>
         </div>
