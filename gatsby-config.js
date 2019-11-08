@@ -45,21 +45,25 @@ module.exports = {
                 site_url: url
                 title
                 description: subtitle
+                author {
+                  name
+                }
               }
             }
           }
         `,
-        feeds: [{
-          serialize: ({ query: { site, allMarkdownRemark } }) => (
-            allMarkdownRemark.edges.map((edge) => Object.assign({}, edge.node.frontmatter, {
-              description: edge.node.frontmatter.description,
-              date: edge.node.frontmatter.date,
-              url: site.siteMetadata.site_url + edge.node.fields.slug,
-              guid: site.siteMetadata.site_url + edge.node.fields.slug,
-              custom_elements: [{ 'content:encoded': edge.node.html }]
-            }))
-          ),
-          query: `
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => (
+              allMarkdownRemark.edges.map((edge) => Object.assign({}, edge.node.frontmatter, {
+                description: edge.node.frontmatter.description,
+                date: edge.node.frontmatter.date,
+                url: site.siteMetadata.site_url + "/" + edge.node.fields.slug,
+                guid: site.siteMetadata.site_url + "/" + edge.node.fields.slug,
+                custom_elements: [{ 'content:encoded': edge.node.html }]
+              }))
+            ),
+            query: `
               {
                 allMarkdownRemark(
                   limit: 1000,
@@ -84,8 +88,59 @@ module.exports = {
                 }
               }
             `,
-          output: '/rss.xml'
-        }]
+            output: '/rss.xml',
+            title: "Les articles de Richard Prasquier",
+
+          },
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => (
+              allMarkdownRemark.edges.map((edge) => Object.assign({}, edge.node.frontmatter, {
+                author: site.siteMetadata.author.name,
+                description: edge.node.frontmatter.description,
+                date: edge.node.frontmatter.date,
+                url: site.siteMetadata.site_url + "/" + edge.node.fields.slug,
+                guid: site.siteMetadata.site_url + "/" + edge.node.fields.slug,
+              }))
+            ),
+            setup: () => ({
+              custom_namespaces: {
+                itunes: 'http://www.itunes.com/dtds/podcast-1.0.dtd',
+              },
+              custom_elements: [
+                { "itunes:category": "Politics" },
+                { 'itunes:author': 'Richard Prasquier' },
+                { 'itunes:explicit': 'clean' },
+              ],
+            }),
+            query: `
+              {
+                allMarkdownRemark(
+                  limit: 1000,
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                  filter: { frontmatter: { template: { eq: "audio" }, draft: { ne: true } } }
+                ) {
+                  edges {
+                    node {
+                      html
+                      fields {
+                        slug
+                      }
+                      frontmatter {
+                        title
+                        date
+                        template
+                        draft
+                        description
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: '/podcast.xml',
+            title: 'Les emissions de Richard Prasquier'
+          },
+        ]
       }
     },
     {
