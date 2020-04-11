@@ -1,6 +1,6 @@
 ---
 template: post
-title: Fictions iranniennes
+title: Fictions iraniennes
 draft: false
 date: 2020-01-16T08:41:36.801Z
 description: Mon analyse sur l’élimination du général Soleimani
