@@ -2,7 +2,7 @@
 template: post
 title: 'L''extension de l''épidémie: 8 avril '
 draft: false
-date: 2020-04-12T14:25:15.705Z
+date: 2020-04-08T14:25:15.705Z
 description: >-
   Coïncidences: le 7 avril le confinement prend fi à Wuhan. Les USA ont 2000
   morts. Boris Johnson est hospitalisé. Un nouveau se met-il en place?
