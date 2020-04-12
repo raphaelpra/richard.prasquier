@@ -1,6 +1,6 @@
 ---
 template: post
-title: 'Hydroxychloroquine '
+title: 'Hydroxychloroquine: réflexions 29 mars 2020'
 draft: false
 date: 2020-03-30T14:08:49.370Z
 description: >
@@ -10,43 +10,27 @@ category: Divers
 tags:
   - Amif Newsletter Crif Desinfo.com
 ---
-Chloroquine: le remède?       Réflexions 29 mars 2020
+Chloroquine: le remède?  
 
 Pour éviter l’état de sidération où la population risquait de tomber en raison du confinement, rien ne valait une polémique. Le Professeur Didier Raoult nous l’a offerte et a réveillé le virologue qui somnolait en chaque français. Aujourd’hui Rockstar de réputation mondiale, nouveau prophète pour certains, quasi délinquant pour d’autres, il est sur une route étroite qui peut le conduire au Capitole ou à la Roche Tarpéienne, devenir Pasteur ou Luc Montagnier, Prix Nobel pour sa découverte du VIH, aujourd’hui décrié par l’ensemble du monde scientifique pour ses positions iconoclastes. Dire de Didier Raoult qu’il est un virologiste « réputé » est une litote. Il a découvert avec son équipe en 2003 les premiers virus géants (girus), un champ de recherches qui a depuis lors bouleversé la virologie. Il ne se prive pas de souligner qu’il est un des virologistes (voire « le » virologiste) les plus cités au monde. Personne ne peut metre en doute sa compétence. Personne  ne peut mettre en doute son talent médiatique. Peu mettent en doute la force de son ego.
 
-
-
 Chacun est une cible, il n’y a  pas de vaccin, la contagiosité est considérable (la fameuse patient n° 32 de Corée du Sud, supercontaminatrice, a infecté des centaines de personnes), le pouvoir pathogène extraordinairement variable (par quel mécanisme?) : chez la plupart la contamination sera asymptomatique, mais certains se retrouveront en quelques minutes en détresse respiratoire et ne seront sauvés qu’au prix de plusieurs semaines de réanimation lourde: pas étonnant qu’un traitement suscite tant d’espoirs……
-
-
 
  Chloroquine (connue depuis 1934, et prise depuis 1947 par des dizaines de millions de personnes  en prévention et parfois en traitement du paludisme) ou hydroxychloroquine (son dérivé un peu moins actif  à dose égale, mais considéré comme encore plus sûr et utilisé quotidiennement (lupus, polyarthrite rhumatoïde) pour ses effets anti-inflammatoires? Il n’importe; une seule question: la prescription est-elle justifiée en cas d’atteinte de coronavirus? Le gouvernement a pour l’instant tranché, après avis du Haut Conseil de Santé Publique, autorisation uniquement hospitalière, et sur décision collégiale médicale, sans indication officielle. 
 
 On attend  les résultats de l’essai Discovery, qui a débuté le 22 mars et qui doit inclure 3200 patients en Europe dont 800 en France. C’est un essai randomisé qui comparera quatre traitements: le lopinavir-ritonavir, dérivé de la recherche sur le VIH (qui pâtit des résultats négatifs d’une toute récente et remarquable étude chinoise sur des patients graves), l’interféron bêta, le remdesivir (un médicament développé contre le virus Ebola, qui parviendrait à se faufiler à l’intérieur de l’hélice l’ARN viral et à empêcher sa réplication) et enfin l’hydroxychloroquine, ce produit que Donald Trump a qualifié de médicament miracle, ce qui, compte tenu de la réputation médicale du Président américain, a probablement augmenté la suspicion à son encontre dans les milieux professionnels. Premiers résultats dans 15 jours, nous promet-on. Mais ce sont les quinze jours où en France la mortalité sera à son pic…..
 
-
-
 Comme la plupart des médecins cliniciens, mes connaissances en pathologie virale sont très fragmentaires. J’ai été chef de clinique en réanimation infectieuse à Claude Bernard, il y a….. près de cinquante ans. J’y avais vu deux cas de rage, guéris après usage, entre autres, de vaccin antirabique. Il n’y a guère d’autre maladie virale que la rage qui puisse être guérie par vaccinothérapie thérapeutique. Pasteur ne le savait pas, et beaucoup de gens aujourd’hui ne le savent pas non plus, qui réclament en « urgence » un vaccin contre le coronavirus.
-
-
 
 A cette époque, on connaissait très bien la chloroquine, complément indispensable à tout voyage exotique. Elle était active (elle  l’est beaucoup moins…) contre le plasmodium. Comment? On n’en avait pas la moindre idée. Et pourtant c’est à cette époque lointaine (1972) que remonte un article japonais (le plus ancien, je pense), montrant l’effet inhibiteur sur la synthèse d’ARN viral de la chloroquine sur des lignées cellulaires infectées par différents virus (Yoshinobu Shilizu et col, Archiv fût die gesamte Virusforschung)
 
  Didier Raoult passait alors son baccalauréat…Il n’est pas, et ne prétend pas l’être, le « découvreur » de la chloroquine.
 
-
-
 Quelques années plus tard, on envisageait un mécanisme d’action pour la chloroquine. Les agresseurs intra-cellulaires qui pénètrent la cellule par l’intermédiaire des endosomes ont besoin d’un milieu acide intravésiculaire pour être libérés dans le cytoplasme et entreprendre (pour certains virus comme le coronavirus) leur réplication. Cela rapproche ces virus de certaines bactéries intra-cellulaires, notamment des rickettsies ou du très proche agent de la fièvre Q, Coxiella burneti. La chloroquine, qui est une base faible est largement ionisée dans cette ambiance acide et interfère donc avec la phase de libération virale. Le Professeur Didier Raoult, spécialiste mondial des rickettsies, en lien avec l’Afrique depuis son enfance, est particulièrement habitué à la chloroquine, dont il vante l’innocuité.
-
-
 
 En 2003, au décours de l’épidémie de Sras (novembre 2002-juillet 2003), dû à une nouvelle forme de bêtacoronavirus (très proche du Covid)  une équipe italienne  (Savarino et col. Effects of chloroquine on viral infections: an old  drug against to-day’s diseases?) publie dans le Lancet le premier article suggérant l’intérêt de la chloroquine sur ce virus  au regard de ce qu’on connaissait de son métabolisme. Des résultats in vitro se montrent prometteurs, mais l’épidémie de Sras n’a guère été ressentie dans une Europe qui trouve normal que les maladies nouvelles et bizarres se développent en dehors d’elle et ne pense plus à cette famille de virus qui donnent plutôt un rhume. L’intérêt se porte surtout sur le VIH: c’est un échec complet, et une suspicion d’aggravation. Même insuccès clinique dans le Chikungunya, la dengue, Ebola et le virus grippal. Ce qui explique le scepticisme de certains virologues, qui considèrent que les études  in vitro ne sont pas suffisantes.
 
-
-
 En ce qui concerne les coronavirus, les recherches se poursuivent  donc mollement. Une fois le Sras jugulé (800 morts environ sur 8000 personnes atteintes) et malgré l’apparition d’une variante (Mers) en 2012, concentrée sur la péninsule arabe), la pathologie humaine des coronavirus se limite au  rhume. On les néglige donc un peu (sauf peut-être en Chine et en Corée du Sud, qui ont été plus impactées par le Sras) même si on sait que les zoonoses sont un des grands dangers épidémiques de notre époque. Ces virus sont difficiles à étudier et ils contiennent tellement de variants…. Pas de lignée animale, pas de culture en tissu fiables. Compliqué pour analyser une action thérapeutique…
-
-
 
 La mutabilité de cette famille est manifeste maintenant que les capacités d’analyse génétique se sont extraordinairement développées: le génome du SARS-CoV-2, officiellement l’agent de la maladie appelée Covid, a été édité très vite (bien plus vite que celui du Sras) et il est possible que certaines des mutations qui n’ont pas manqué de survenir depuis lors  fassent varier ponctuellement sa  virulence. A partir peut-être d’un réservoir initial  sur la chauve-souris, on peut tracer des arbres phylogénétiques des nombreux coronavirus du règne animal.   Ils peuvent franchir  la barrière d’espèce après certaines mutations, notamment probablement celles qui impliquent cette partie de l’enveloppe virale qui permet la fixation sur un molécule de l’hôte qui jouera dès lors le rôle de récepteur: cette zone très stratégique est une partie de la protéine S (pour « spike »): la photographie d’une coupe de ces virus entourés de leurs spicules évoque une couronne et donne son nom à la famille.C’est sur le récepteur de l’enzyme de conversion de l’angiotensine, bien connu des spécialistes en Hypertension artérielle, et présent en quantité dans les alvéoles pulmonaires, que se fixe l’agent du Covid 19. L’affinité spécifique d’un virus donné sur une molécule de récepteur donnée avec sa spécificité génétique ou épigénétique particulière jouent peut-être un rôle dans la toxicité différente de la maladie d’un patient à l’autre, et peut-être dans la sensibilité variable avec l’âge: mais c’est toute la chaine biochimique  qu’il faudrait explorer et nous n’en avons pas encore les moyens. En tout cas, malgré la prévalence importante de HTA dans les formes graves, il ne semble pas que le traitement, si courant,  des malades par les inhibiteurs de l’angiotensine ou de l’enzyme de conversion joue un rôle dans le pronostic, d’après une étude publiée par le Collège Américain de Cardiologie: soulagement pour les cardiologues…..
 
@@ -66,19 +50,11 @@ C’est peut-être là précisément pourquoi il faut, paradoxalement, raison ga
 
 Y a-t-il une étude clinique randomisée sur l’hydroxychloroquine dans le coronavirus? Oui. Elle a été faite à l’Université de Zhejiang (la « Cambridge chinoise »), près de Shanghai. Elle est toute petite: 15 patients tout venants  sous traitement p	ar 400 mg d’hydroxychloroquine pendant 5 jours et quinze patients sans traitement., avec un écouvillonnage pharyngé à J7: Aucun bénéfice du médicament n’a été constaté.
 
-
-
 L’étude toute récente de l’Institut Hospitalo-Universitaire Méditerranée porte sur 80 malades, également bénins à modérés, qui ont tous reçu l’association hydroychloroquine-azithromycine, (une fois de plus, il n’y a donc pas de groupe contrôle) et dont on analyse la charge virale et l’état clinique après 10 jours. Les auteurs concluent à une excellente efficacité du traitement: un seul  patient décédé et un autre en soins intensifs, avec à J8 une négativation de la charge virale chez 90% des patients. 
-
-
 
  On ne peut pas s’empêcher de penser que cette publication aggrave les insuffisances méthodologiques du précédent travail. A quoi , à qui comparer les patients de cette étude? Certainement pas aux 191 patients hospitalisés de Wu Han publiés dans le Lancet de janvier 2020, dont 54 sont morts. Ce n’est pas les patients graves des hôpitaux del Wu Han  débordés par la catastrophe sanitaire qu’on peut mettre en regard les personnes peu symptomatiques, assez jeunes au demeurant, présentées dans cette étude, suivies dans un Centre hospitalier de réputation internationale en fonctionnement à peu près normal. Et ce n’est pas à la durée de portage (jusqu’à 20 jours) retrouvée dans ces études anciennes de circulation virale diffuse qu’il faut comparer la négativation de la presque totalité des examens au 8e jour. C’est plutôt à la petite mais randomisée étude chinoise récente citée plus haut où, sans aucun traitement, la quasi-totalité des patients non traités n’ont plus de virus dans le pharynx à J7.
 
-
-
 Voici ce que je perçois aujourd’hui, 29 mars 2020, à partir de ma recherche bibliographique, sans expérience  personnelle sur le sujet. Je me suis excusé d’avoir prescrit  auprès des miens d’un traitement d’hydroxychloroquine que j’estime aujourd’hui injustifié. Je considère que l’attitude des autorités  est sage. Je continue d’espérer que le Professeur Raoult ait raison.
-
-
 
 Je me sens désormais moins inconfortable devant ce dilemme qui est celui de tout soignant dans une étude de « non-infériorité ». Comment accepter une situation où ne pas donner un produit donnerait au mieux les mêmes chances cliniques que de ne rien faire ? Un médecin a déjà du mal à adhérer à une étude où d’éventuels avantages économiques (produit moins coûteux) ou pratiques (prises moins fréquentes) aboutiraient au mieux à une situation d’égalité, mais non d’amélioration, de résultats (non-infériorité), avec le risque de soins moins efficaces. Primum non nocere. Plus encore dans le dilemme de ne rien faire d’un côté et un traitement très connu, ancien, facile à fabriquer et à peu près dénué de risque (s’il est pris pendant un temps bref et si on en exclut de très rares cas particuliers). « Si ce n’est pas utile, ça ne peut pas faire de mal ». Et pour en être convaincus, les médecins que sont le Professeur Raoult et son équipe rejettent les injonctions d’études témoins, convaincus de posséder une thérapeutique utile, peut-être salvatrice, dans une période dramatique. Le serment d’Hippocrate avant les diktats scientistes. Il est évident aussi qu’une partie du public angoissé et à l’affut de dérivatifs pour exprimer ses colères, ses angoisses et ses soupçon fera du virologiste marseillais le Robin des Bois de l’épidémie. 
 
