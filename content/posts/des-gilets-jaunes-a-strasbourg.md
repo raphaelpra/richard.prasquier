@@ -1,12 +1,14 @@
 ---
 template: post
-title: 'Gilets Jaunes et attentats de Strasbourg '
+title: Gilets Jaunes et attentats de Strasbourg Déc. 2018
 draft: false
 date: 2018-12-17T09:03:36.176Z
 description: >-
   Dérives antisémites chez les Gilets Jaunes et terrorisme islamiste à
   Strasbourg
 category: Antisémitisme
+tags:
+  - Actu J
 ---
 
 
