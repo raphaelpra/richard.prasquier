@@ -8,7 +8,11 @@ description: >
   postulé dans les atteintes virales.
 category: Divers
 tags:
-  - Amif Newsletter Crif Desinfo.com
+  - Amif
+  - Newsletter
+  - Crif
+  - Desinfo.com
+  - Coronavirus
 ---
 Chloroquine: le remède?  
 
