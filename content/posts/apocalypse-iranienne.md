@@ -1,13 +1,13 @@
 ---
 template: post
-title: Apocalypse iranienne ?
+title: Apocalypse iranienne ? Juin 2019
 draft: false
 date: 2019-06-27T19:46:00.000Z
 description: >-
   Etats Unis et Iran : après la décision de Donald Trump d'annuler le
   bombardement d'installations iraniennes, quels sont les objectifs des
   Américains et des Iraniens?
-category: Géopolitique
+category: International
 tags:
   - Géopolitique
   - Iran
