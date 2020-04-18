@@ -1,6 +1,6 @@
 ---
 template: post
-title: Enseigner la shoah pour lutter contre l'antisémitisme. Janv 2019
+title: Enseigner la shoah pour lutter contre l'antisémitisme Janv 2019
 draft: false
 date: 2019-01-24T13:50:38.031Z
 description: >-
