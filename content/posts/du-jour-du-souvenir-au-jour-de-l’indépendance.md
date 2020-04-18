@@ -3,7 +3,7 @@ template: post
 title: Du jour du souvenir au jour de l’indépendance
 draft: false
 date: 2019-06-29T07:54:31.410Z
-description: Yom Hazikaron et Yom Haatzmaout en Israël
+description: Yom Hazikaron et Yom Haatzmaout en Israël Juin 2019
 category: Israël
 tags:
   - Actu J
