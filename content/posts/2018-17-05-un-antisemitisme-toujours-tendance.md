@@ -1,6 +1,6 @@
 ---
 template: post
-title: Un Antisémitisme toujours tendance   Nov 2018
+title: 'Un Antisémitisme toujours tendance   '
 draft: false
 date: 2018-11-15T16:05:58.879Z
 description: >-
