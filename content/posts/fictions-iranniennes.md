@@ -1,9 +1,9 @@
 ---
 template: post
-title: Fictions iraniennes
+title: Fictions iraniennes Janv. 2020
 draft: false
 date: 2020-01-16T08:41:36.801Z
-description: Mon analyse sur l’élimination du général Soleimani
+description: L'élimination du général Soleimani et ses suites
 category: International
 tags:
   - Iran
