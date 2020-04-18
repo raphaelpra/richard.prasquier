@@ -1,6 +1,6 @@
 ---
 template: post
-title: Les attentats de Toulouse et le temps des désillusions
+title: Les attentats de Toulouse et le temps des désillusions Mars 2016
 draft: false
 date: 2016-03-16T19:28:00.000Z
 description: >-
@@ -13,6 +13,8 @@ tags:
   - Islamisme
   - Toulouse
 ---
+
+
 D’autres crimes, encore plus sanglants, ont depuis lors électrisé notre actualité, et c’est sous leur lumière aveuglante qu’il convient, quatre ans plus tard, de réfléchir sur les attentats de Toulouse. En tant que Président du Crif, j’ai vécu ces événements de façon intense et multiple, familles, communautés, médias, gouvernement,  dans l’hyperactivité exacerbée d’un cauchemar éveillé, où brillaient quelques lumières consolatrices. Car il y eut des espoirs: j’ai admiré l’acharnement des services de police massivement engagés dans la chasse à l’homme, l’énergie de Nicolas Sarkozy, la dignité de la classe politique tout entière réunie dans la cérémonie d’hommage de Montauban, campagne présidentielle suspendue, l’empathie envers les familles dans la détresse, toutes ces manifestations de fraternité nationale qui faisaient rêver à un « plus jamais ça », cette implorations pathétique toujours déçue et toujours nécessaire. Mais j’ai vite compris que les partis pris persistaient et que  la maladie du déni continuerait de ronger notre société. Invité au journal de TF1 avec Dalil Boubakeur pour donner une image d’unité interconfessionnelle, j’ai franchi la ligne du politiquement correct en critiquant ceux qui par leur recensions biaisées avaient leur part de responsabilité dans la phrase « justificatrice » de Merah, largement reprise par la presse, qu’il n’avait fait que « venger les enfants de Gaza ». J’avais espéré lancer un débat, je n’ai reçu dès le lendemain que la protestation scandalisée du syndicat des journalistes de la chaîne, puis comme d’habitude, le silence s’est fait sur le sujet, silence bien plus efficace que toute contestation explicite.
 
 Aujourd’hui, je pense la lucidité impose d’affronter plusieurs désillusions tirées de ces événements terribles. 
