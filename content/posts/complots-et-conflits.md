@@ -1,12 +1,12 @@
 ---
 template: post
-title: ' Complots et Conflits'
+title: Tout est à cause des Juifs.... Nov 2015
 draft: false
 date: 2015-11-25T16:48:00.000Z
 description: >-
-  La haine  antiisraélienne dans le monde musulman n'est pas forcément d'origine
-  religieuse et ne conduit pas forcément au djihad, mais elle est un facteur
-  majeur d'inquiétudes sur la pérennié de lla préence juive en France.
+  La haine  anti-israélienne dans le monde musulman n'est pas forcément
+  d'origine religieuse et ne conduit pas forcément au djihad, mais elle est un
+  facteur majeur d'inquiétudes sur la pérennité de la présence juive en France.
 category: Antisémitisme
 tags:
   - Actu J
@@ -14,19 +14,17 @@ tags:
   - Complotisme
   - Haine
 ---
-
-
 Quand vont-ils accuser Israël d’être responsable? Je me posais la question en écrivant une tribune le lendemain des attentats. La réponse est venue encore plus vite que prévu. 
 
-Evidemment, un vendredi soir, en des lieux non spécifiquement juifs, il fallait s’y attendre. Dès le 15 novembre le journal officiel  de l’Autorité Palestinienne, Al-Hayat Al-Jadida, annonçait que le Mossad était derrière les attentats. Puis Khamenei a accusé   les Etats Unis et Israël d’avoir créé le Daesh et d’être les vrais responsables des assassinats. Pas étonnant, puisque le « calife » du Daesh, Al Baghdadi serait un juif…...Bien entendu l’insubmersible Hani Ramadan, frère de Tariq, l’homme du moratoire de la lapidation des femmes,accuse lui aussi le Mossad. Et dans les réseaux sociaux spécialisés, la cause est entendue….. Israël est le coupable. 
+Evidemment, un vendredi soir, en des lieux non spécifiquement juifs, il fallait s’y attendre. Dès le 15 novembre le journal officiel  de l’Autorité Palestinienne, Al-Hayat Al-Jadida, annonçait que le Mossad était derrière les attentats. Puis Khamenei a accusé   les Etats Unis et Israël d’avoir créé  Daesh et d’être les vrais responsables des assassinats. Pas étonnant, puisque le « calife » de Daesh, Al Baghdadi serait un juif…...Bien entendu l’insubmersible Hani Ramadan, frère de Tariq, l’homme du moratoire de la lapidation des femmes, accuse lui aussi le Mossad. Et dans les réseaux sociaux spécialisés, la cause est entendue….. Israël est le coupable. 
 
-Il n’y a probablement  pas un seul événement grave sur la planète dans lequel Israël n’aurait pas été incriminé depuis les attentats du 11 septembre, précédés, ne l’oublions pas,  par l’ignoble conférence de Durban: tsunami de 2004, tremblement de terre de Haiti ou du Népal, réchauffement climatique,sans oublier le Sida que Mme Arafat avait expliqué  à Mme Clinton comme conséquence de la pulsion des Juifs (pardon, des Israéliens…. ) à empoisonner les puits…...
+Il n’y a probablement  pas un seul événement grave sur la planète dans lequel Israël n’aurait pas été incriminé depuis les attentats du 11 septembre, précédés, ne l’oublions pas,  par l’ignoble conférence de Durban: tsunami de 2004, tremblement de terre de Haiti ou du Népal, réchauffement climatique, sans oublier le Sida que Mme Arafat avait expliqué  à Mme Clinton comme conséquence de la pulsion des Juifs (pardon, des Israéliens…. ) à empoisonner les puits…...
 
 Devant des assertions aussi stupides, la réaction logique est le haussement d’épaules; c’est celle des autorités israéliennes qui ne veulent surtout pas entrer dans des polémiques lamentables. On n’a pas de temps à perdre avec des complotistes. Certes… Mais aujourd’hui on peut penser qu’il y a plusieurs centaines de millions de complotistes sur la planète. Et comme par hasard, les Juifs, cet infime pourcentage de la population mondiale, sont mis en cause dans la plupart des complots.
 
 De nombreux musulmans, et ils ne sont pas les seuls,  pensent que les attentats du 11/9 sont dus à un complot américano-sioniste destiné à stigmatiser l’Islam. Et, la mémoire d’Internet aidant, les explications complotistes ne disparaîtront jamais.
 
-Bien des articles s’interrogent sur les motivations des terroristes. Le chômage, les discriminations, les frappes militaires françaises, le conflit israélo-palestinien, bien sûr (au fait, pourquoi bien sûr?), les prêches d’imams radicaux à la mosquée ou sur le web, les jeux video, le matérialisme individualiste, les mauvaises rencontres en prison, le vide spirituel, etc…..Rajoutons-en une: ils se radicalisent parce qu’ils croient en des histoires, qui sont toujours des histoires de complots. Beaucoup y croient, quelques-uns décident en plus d’en être les vengeurs. Eux seront les terroristes, les autres, bien plus nombreux,souvent solidaires, sont le terreau d'où ils sortent.
+Bien des articles s’interrogent sur les motivations des terroristes. Le chômage, les discriminations, les frappes militaires françaises, le conflit israélo-palestinien, bien sûr (au fait, pourquoi bien sûr?), les prêches d’imams radicaux à la mosquée ou sur le web, les jeux video, le matérialisme individualiste, les mauvaises rencontres en prison, le vide spirituel, etc…..Rajoutons-en une: ils se radicalisent parce qu’ils croient en des histoires, qui sont toujours des histoires de complots. Beaucoup y croient, quelques-uns décident en plus d’en être les vengeurs. Eux seront les terroristes, les autres, bien plus nombreux, souvent solidaires, sont le terreau d'où ils sortent.
 
 L’accusation de complot a façonné le destin des Juifs au XXe siècle et tout indique qu’elle le  fera encore au XXIe. Elle n’est pas un épiphénomène.
 
