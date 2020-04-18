@@ -9,6 +9,7 @@ description: >-
 category: Divers
 tags:
   - Amif
+  - Coronavirus
 ---
 L’extension de l’épidémie
 
