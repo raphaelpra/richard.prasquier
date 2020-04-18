@@ -1,7 +1,7 @@
 ---
 template: post
 title: Journal Médical
-draft: true
+draft: false
 date: 2020-04-18T13:19:18.289Z
 description: Complications cardiaques de l'hydroxychloroquine
 category: Divers
